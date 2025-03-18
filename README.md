@@ -1,1 +1,3 @@
-# DATASCI-112-Final-Project
+Does More Funding Lead to Better Student Performance?
+
+This project examines the relationship between school funding, student performance, and socioeconomic disadvantage in California public schools. Using financial expenditure and standardized test data, we analyze whether higher spending improves academic outcomes and whether socioeconomic status influences performance. Our findings reveal a weak correlation between spending and test scores, suggesting that funding alone does not drive success. Additionally, socioeconomically disadvantaged schools tend to have lower performance despite receiving similar or higher funding, highlighting the need to address systemic inequities beyond financial resources.
